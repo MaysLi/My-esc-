@@ -83,7 +83,9 @@
           "args": "none"
         }
       ],
-      "no-console": [0]
+      "no-console": [
+        0
+      ]
     },
     "parserOptions": {
       "parser": "babel-eslint"

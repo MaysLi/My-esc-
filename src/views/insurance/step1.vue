@@ -1,6 +1,6 @@
 <template>
 	<div>
-
+		<h1>本人崩溃了</h1>
 	</div>
 </template>
 
